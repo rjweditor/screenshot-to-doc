@@ -1,6 +1,6 @@
 
 ```markdown
-# screenshot-doc
+# screenshot-to-doc
 
 ## Overview
 'screenshot-to-doc' is a Python script designed to extract text from a screenshot image and save it to a Word document using Tesseract OCR.
